@@ -1,0 +1,5 @@
+# Large training data
+data/
+datasets/
+tinyllama-lora-tuned/
+tinyllama-lora-tuned-adapter-math/
